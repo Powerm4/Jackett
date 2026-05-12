@@ -574,6 +574,7 @@ Prior versions of Jackett are no longer supported.
  * ReelFlix (HD4Free,LegacyHD)
  * RetroFlix
  * RetroMoviesClub (RMC)
+ * RetroToon
  * RevolutionTT [![(invite needed)][inviteneeded]](#)
  * RocketHD
  * Romanian Metal Torrents (RMT)
