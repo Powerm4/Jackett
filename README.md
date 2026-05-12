@@ -279,8 +279,8 @@ Prior versions of Jackett are no longer supported.
  * AlphaRatio (AR)
  * AmigosShareClub (ASC)
  * AnimeBytes (AB)
- * AnimeTorrents (AnT)
  * AnimeTorrents.ro (Anime Torrents Romania)
+ * AnimeZ
  * AnimeWorld (AW)
  * Anthelion (ANT)
  * Araba Fenice (Phoenix) [![(invite needed)][inviteneeded]](#)
