@@ -161,14 +161,37 @@ search:
     download:
       selector: a[href^="/detail/"]
       attribute: href
-    date:
-      text: now
     size:
-      selector: td:nth-child(2)
-    seeders:
       selector: td:nth-child(3)
-    leechers:
+    seeders:
       selector: td:nth-child(4)
+    leechers:
+      selector: td:nth-child(5)
+    grabs:
+      selector: td:nth-child(6)
+    date:
+      selector: td:nth-child(7)
+      filters:
+        - name: replace
+          args: ["heures", "hours"]
+        - name: replace
+          args: ["heure", "hour"]
+        - name: replace
+          args: ["jours", "days"]
+        - name: replace
+          args: ["jour", "day"]
+        - name: replace
+          args: ["semaines", "weeks"]
+        - name: replace
+          args: ["semaine", "week"]
+        - name: replace
+          args: ["mois", "months"]
+        - name: replace
+          args: ["ans", "years"]
+        - name: replace
+          args: ["an", "year"]
+        - name: append
+          args: " ago"
     downloadvolumefactor:
       text: 0
     uploadvolumefactor:
