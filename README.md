@@ -135,7 +135,6 @@ Prior versions of Jackett are no longer supported.
  * NewStudio
  * Nipponsei
  * NoNaMe Club (NNM-Club)
- * NorTorrent
  * Nyaa.si
  * OneJAV
  * OpenSharing
