@@ -393,10 +393,10 @@ search:
         img.pro_2up: 2
         "*": 1
     minimumratio:
-      text: 1
+      text: 2.0
     minimumseedtime:
-      # 3 days (as seconds = 3 x 24 x 60 x 60)
-      text: 259200
+      # 10 days (as seconds = 10 x 24 x 60 x 60)
+      text: 864000
     description:
       selector: td:nth-child(2)
       remove: a, b, font, img, span
