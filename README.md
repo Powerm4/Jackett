@@ -538,6 +538,7 @@ Prior versions of Jackett are no longer supported.
  * Polish Torrent (PTT)
  * PolishTracker [![(invite needed)][inviteneeded]](#)
  * Pornbay [![(invite needed)][inviteneeded]](#)
+ * PornBytes
  * Portugas
  * Pretome
  * PrivateHD (PHD)
