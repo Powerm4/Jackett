@@ -15,7 +15,7 @@ caps:
     - {id: 1, cat: Movies, desc: "Filme HD"}
     - {id: 4, cat: PC/Games, desc: "Jocuri PC"}
     - {id: 5, cat: Audio, desc: "Muzica"}
-    - {id: 3, cat: Movies/UHD, desc: "Filme UHD-RO"}
+    - {id: 23, cat: Movies/UHD, desc: "Filme UHD-RO"}
     - {id: 6, cat: PC, desc: "Software"}
     - {id: 7, cat: TV/Anime, desc: "Anime"}
     - {id: 8, cat: TV/Documentary, desc: "Documentare"}
