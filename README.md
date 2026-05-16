@@ -414,7 +414,6 @@ Prior versions of Jackett are no longer supported.
  * HD-Torrents (HDT)
  * HD-UNiT3D
  * HDArea (HDA)
- * HDBao
  * HDBits [![(invite needed)][inviteneeded]](#)
  * HDCiTY (HDC)
  * HDClone

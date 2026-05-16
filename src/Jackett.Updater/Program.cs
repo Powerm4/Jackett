@@ -474,6 +474,7 @@ namespace Jackett.Updater
                 "Definitions/hd4free.yml",
                 "Definitions/hdai.yml",
                 "Definitions/hdatmos.yml",
+                "Definitions/hdbao.yml",
                 "Definitions/hdbc.yml", // renamed to hdbitscom
                 "Definitions/hdbits.yml",
                 "Definitions/hdbitscom.yml",
