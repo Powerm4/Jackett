@@ -632,6 +632,7 @@ namespace Jackett.Updater
                 "Definitions/p2pelite.yml",
                 "Definitions/pandahd.yml",
                 "Definitions/parabellumhd.yml",
+                "Definitions/parabellumhd-api.yml",
                 "Definitions/parnuxi.yml",
                 "Definitions/partis.yml",
                 "Definitions/passionetorrent.yml",
